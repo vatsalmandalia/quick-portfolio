@@ -1,10 +1,9 @@
 ## Projects across Data Science, Machine Learning
 
 ---
-
 ### Categorise countries using socio-economic factors for deciding recipients of USD10 million financial aid from HELP organization
 [View on Github](/https://github.com/vatsalmandalia/Country-Data-Kmeans-Clustering.git)
-<br>
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
