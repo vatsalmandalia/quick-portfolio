@@ -1,10 +1,13 @@
 ## Projects across Data Science, Machine Learning
 
 ---
-### Categorise countries using socio-economic factors for deciding recipients of USD10 million financial aid from HELP organization
+### 1. Categorise countries using socio-economic factors for deciding recipients of USD10 million financial aid from HELP organization
 [View on Github](/https://github.com/vatsalmandalia/Country-Data-Kmeans-Clustering.git)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Classified 167 countries using 10 socio-economic factors into three groups by applying K-Means Clustering. Optimal number of clusters/groups is determined using elbow-curve method. Scaled down the data using StandardScaler and managed outliers by capping them to avoid their effect on algorithm performance. For my analysis, I defined the groups as 'High', 'Medium' and 'Low' for each feature like life expectancy, health expenditure etc.
+
+After classifying, Plotly library in Python is used to visualize the countries in three colours on a world map.
+<img src="images/Categorized_Countries_World_Map.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
