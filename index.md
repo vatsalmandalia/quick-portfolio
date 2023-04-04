@@ -1,4 +1,4 @@
-## Projects across Data Science, Machine Learning, Tableau and SQL
+## My Portfolio
 
 ---
 ### 1. 2020 Retail Sales Dashboard in Tableau
