@@ -20,12 +20,7 @@ After classifying, Plotly library in Python is used to visualize the countries i
 <img src="images/Categorized_Countries_World_Map.png?raw=true"/>
 
 ---
-[Project 3 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 4 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+More to come...
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
