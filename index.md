@@ -7,6 +7,9 @@
 Sales analysis of retail stores in USA is done for 2020 in a dashboard created using Tableau.
 <img src="images/2020 Retail Sales Dashboard.png?raw=true"/>
 
+Relevant KPIs have been highlighted, correct charts are used to show the trends and patterns and filter on date is applied to give a flexibility to explore deeply into the data.
+
+---
 
 ### 2. Categorise countries using socio-economic factors for deciding recipients of USD10 million financial aid from HELP organization
 [View on Github](/https://github.com/vatsalmandalia/Country-Data-Kmeans-Clustering.git)
@@ -23,21 +26,6 @@ After classifying, Plotly library in Python is used to visualize the countries i
 ---
 [Project 4 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
