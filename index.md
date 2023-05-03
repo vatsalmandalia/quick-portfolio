@@ -12,7 +12,7 @@ Relevant KPIs have been highlighted, correct charts are used to show the trends 
 ---
 
 ### 2. Categorise countries using socio-economic factors for deciding recipients of USD10 million financial aid from HELP organization
-[View on Github](/https://github.com/vatsalmandalia/Country-Data-Kmeans-Clustering.git)
+[View on Github](https://github.com/vatsalmandalia/Country-Data-Kmeans-Clustering.git)
 
 Classified 167 countries using 10 socio-economic factors into three groups by applying K-Means Clustering. Optimal number of clusters/groups is determined using elbow-curve method. Scaled down the data using StandardScaler and managed outliers by capping them to avoid their effect on algorithm performance. For my analysis, I defined the groups as 'High', 'Medium' and 'Low' for each feature like life expectancy, health expenditure etc.
 
