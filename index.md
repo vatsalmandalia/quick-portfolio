@@ -8,9 +8,9 @@
 
 [View on Colab](https://colab.research.google.com/drive/1ADuAljjS98ocMcGExwKrLPuRcC1nF9jc?usp=sharing)
 
-* Time series forecasting is done for weekly sales in Walmart stores across the US for the year 2013 with historical data of 45 stores and 99 departments from 2010-2012.
+* Time series forecasting done for weekly sales in Walmart stores across the US for the year 2013 with historical data of 45 stores and 99 departments from 2010-2012.
 * From the sales analysis across the four prominent holidays namely, Thanksgiving leads by a margin of 40% in comparison to other three holidays.
-* Univariate time series is produced from the original series by averaging over the date and this series goes through Augmented-Dickey Fuller statistical test. AD Fuller Test concluding the data to have stationarity with p-value < 0.05.
+* Data is prepared from averaging by date for all stores to get a univariate series. Augmented-Dickey Fuller statistical test concludes the time series having no stationarity. 
 * Auto-Correlation Function and Partial Auto-Correlation Function plots estimate values of (1,1,2) for model parameters (p,d,q). DateOffset function from the Pandas library is used to create future 52-week dates and ARIMA and Seasonal ARIMA forecast sales on this series.
 
 <img src="images/Weekly Sales 2010_2013.jpeg?raw=true"/>
