@@ -5,12 +5,12 @@
 
 [View on Github](https://github.com/vatsalmandalia/Airbnb-Listings-Analysis-SQL-Tableau)
 
-* Price, proportion, revenue and superhost analysis is done on 17071 and 9506 listings and hosts in Austin on Airbnb with the data extracted from Inside Airbnb.
+* Price, proportion, revenue and superhost analysis is done on 17071 listings in Austin on Airbnb with the data extracted from Inside Airbnb.
 * 80% hosts are single listing holders, with Austin accounting for 42% listings. 30-day projection shows a 47% of the total revenue for Austin neighbourhood.
 * 'Price' field is cleaned by manually removing non-numeric character '$'. Using CAST and REPLACE queries comma is removed from the values with data type changed to INTEGER.
-* DB Browser for SQLite tool is used to create and edit the SQLite database.
+* SQL queries are executed through DB Browser for SQLite tool.
 
-To explore and interact with two dashboards created, Tableau Public links are given below.<br>
+Tableau Public: 
 [Price and Proportion Analysis](https://public.tableau.com/views/AirbnbAnalysisforAustin/PriceandProportionAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link) | 
 [Revenue Potential and Superhost Analysis](https://public.tableau.com/views/AirbnbAnalysisforAustin/RevenuePotentialandSuperhostStatus?:language=en-GB&:display_count=n&:origin=viz_share_link)
 <br>
