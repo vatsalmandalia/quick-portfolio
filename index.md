@@ -12,7 +12,7 @@
 * New calculated fields are created for visualizing revenue potential and price per bed rate.
 
 To explore and interact with two dashboards created, Tableau Public links are given below.<br>
-[Price and Proportion Analysis](https://public.tableau.com/views/AirbnbAnalysisforAustin/PriceandProportionAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link);
+[Price and Proportion Analysis](https://public.tableau.com/views/AirbnbAnalysisforAustin/PriceandProportionAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link)  |  
 [Revenue Potential and Superhost Analysis](https://public.tableau.com/views/AirbnbAnalysisforAustin/RevenuePotentialandSuperhostStatus?:language=en-GB&:display_count=n&:origin=viz_share_link)
 <br>
 <img src="images/Dashboards.png?raw=true">
