@@ -2,7 +2,7 @@ title: Vatsal Mandalia # your name (or website title) here
 logo: "/images/VatsalMandalia_LinkedIn.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  Data Scientist and Analyst professional, hands-on in collecting, cleaning and analysing data to extract meaningful insights which can translate into data-driven decision-making. Proficient in handling big data using Python and SQL with capability to utilise BI tools like PowerBI and Tableau to produce impactful visualizations. 
+  Data Scientist and Analyst professional, hands-on in collecting, cleaning and analysing data to extract meaningful insights which can translate into data-driven decision-making.
   <br><br>
   <a href="https://www.linkedin.com/in/vatsal-mandalia/">View My LinkedIn Profile</a>
   <br><br>
@@ -10,8 +10,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://github.com/vatsalmandalia/">View My Github Profile</a>
 
-
-
-  
 theme: jekyll-theme-minimal
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
