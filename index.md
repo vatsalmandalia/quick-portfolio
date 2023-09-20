@@ -10,7 +10,13 @@
 * 'Price' field is cleaned by manually removing non-numeric character '$'. Using CAST and REPLACE queries comma is removed from the values with data type changed to INTEGER.
 * SQL queries are executed through DB Browser for SQLite tool.
 
-Tableau Public: 
+<b>PowerPoint Presentation</b>:
+
+<a href="/pdf/Airbnb Analysis.pdf" class="image fit"><img src="images/Screenshot 2023-09-20 at 7.56.13 PM.png" alt=""></a>
+
+[Airbnb Analysis.pdf](https://github.com/vatsalmandalia/vatsalmandalia.github.io/files/12675091/Airbnb.Analysis.pdf)
+
+<b>Tableau Public</b>: 
 [Price and Proportion Analysis](https://public.tableau.com/views/AirbnbAnalysisforAustin/PriceandProportionAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link) | 
 [Revenue Potential and Superhost Analysis](https://public.tableau.com/views/AirbnbAnalysisforAustin/RevenuePotentialandSuperhostStatus?:language=en-GB&:display_count=n&:origin=viz_share_link)
 <br>
