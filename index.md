@@ -14,8 +14,6 @@
 
 <a href="/pdf/Airbnb Analysis.pdf" class="image fit"><img src="images/Screenshot 2023-09-20 at 7.56.13 PM.png" alt=""></a>
 
-[Airbnb Analysis.pdf](https://github.com/vatsalmandalia/vatsalmandalia.github.io/files/12675091/Airbnb.Analysis.pdf)
-
 <b>Tableau Public</b>: 
 [Price and Proportion Analysis](https://public.tableau.com/views/AirbnbAnalysisforAustin/PriceandProportionAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link) | 
 [Revenue Potential and Superhost Analysis](https://public.tableau.com/views/AirbnbAnalysisforAustin/RevenuePotentialandSuperhostStatus?:language=en-GB&:display_count=n&:origin=viz_share_link)
