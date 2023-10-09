@@ -5,8 +5,8 @@
 
 [View on Github](https://github.com/vatsalmandalia/Airbnb-Listings-Analysis-SQL-Tableau)
 
-* Price, proportion, revenue and superhost analysis is done on 17071 listings in Austin on Airbnb with the data extracted from Inside Airbnb.
-* 80% hosts are single listing holders, with Austin accounting for 42% listings. 30-day projection shows a 47% of the total revenue for Austin neighbourhood.
+* Price, proportion, revenue and superhost analysis was done on 17071 listings in Austin on Airbnb with the data extracted from Inside Airbnb.
+* 80% hosts were single listing holders, with Austin accounting for 42% listings. 30-day projection showed a 47% of the total revenue for Austin neighbourhood.
 * 'Price' field is cleaned by manually removing non-numeric character '$'. Using CAST and REPLACE queries comma is removed from the values with data type changed to INTEGER.
 * SQL queries are executed through DB Browser for SQLite tool.
 
@@ -32,7 +32,7 @@
 
 * Time series forecasting done for weekly sales in Walmart stores for 2013 with historical data of 45 stores and 99 departments from 2010-2012.
 * Deep dive in holidays showed Thanksgiving getting 40% more sales than Labour Day, Super Bowl and Christmas.
-* Augmented-Dickey Fuller statistical test found the time series having no stationarity.
+* Thanksgiving and Christmas were target of retailers for Markdown events, with average markdown 6x more than in other holidays.
 * Utilised Statsmodels library for applying ARIMA and SARIMAX models, with p,d,q parameters determined from ACF & PACF plots.
 
 
@@ -44,9 +44,9 @@
 
 <img src="images/Categorized_Countries_World_Map.png?raw=true"/>
 
-* Classified 167 countries using 10 socio-economic factors into three groups by applying K-Means Clustering. Optimal number of clusters/groups is determined using elbow-curve method.
-* Scaled down the data using StandardScaler and managed outliers by capping them to avoid their effect on algorithm performance. For my analysis, I defined the groups as 'High', 'Medium' and 'Low' for each feature like life expectancy, health expenditure etc.
-* After classifying, Plotly library in Python is used to visualize the countries in three colours on a world map.
+* Clustered 167 countries using 10 socio-economic factors to identify financial aid recipients.
+* Scaled down the data using StandardScaler and managed outliers by capping them to avoid their effect on algorithm performance.
+* After classifying, Plotly library in Python used to visualize the countries in three colours on a world map.
 
 ## 2020 Retail Sales Dashboard in Tableau
 [View on Tableau Public](https://public.tableau.com/views/2020RetailSalesDashboard/2020RetailSalesDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
