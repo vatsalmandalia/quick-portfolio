@@ -1,3 +1,4 @@
+<body TEXT="BLACK">
 # My Portfolio
 
 ## Airbnb Analysis in Austin
@@ -55,6 +56,7 @@ Sales analysis of retail stores in USA is done for 2020 in a dashboard created u
 <img src="images/2020 Retail Sales Dashboard.png?raw=true"/>
 
 Relevant KPIs have been highlighted, correct charts are used to show the trends and patterns and filter on date is applied to give a flexibility to explore deeply into the data.
+</body>
 
 
 ---
