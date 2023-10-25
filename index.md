@@ -4,7 +4,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 [View on Github](https://github.com/vatsalmandalia/Airbnb-Listings-Analysis-SQL-Tableau)
-$${\color{black}My color}$$
+
 * Price, proportion, revenue and superhost analysis was done on 17071 listings in Austin on Airbnb with the data extracted from Inside Airbnb.
 * 80% hosts were single listing holders, with Austin accounting for 42% listings. 30-day projection showed a 47% of the total revenue for Austin neighbourhood.
 * 'Price' field is cleaned by manually removing non-numeric character '$'. Using CAST and REPLACE queries comma is removed from the values with data type changed to INTEGER.
